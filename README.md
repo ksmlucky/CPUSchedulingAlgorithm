@@ -1,7 +1,7 @@
 # CPUSchedulingAlgorithm
 CPU 스케줄링 알고리즘 구현
 
-- 4가지 스케줄링 알고리즘(First come first served, Shortest job first, Round robin, Priority)을 구현한 후
+- C++을 이용하여 4가지 스케줄링 알고리즘(First come first served, Shortest job first, Round robin, Priority)을 구현한 후
 간단한 프로그램 제작
 
 - 알고리즘 마다 프로세스들이 처리되는 결과가 다르게 나오는 것을 확인할 수 있음
