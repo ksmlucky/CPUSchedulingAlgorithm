@@ -1,4 +1,4 @@
-# CPUSchedulingAlgorithm
+# InMyMajor2_CpuScheduling
 CPU 스케줄링 알고리즘 구현
 
 - C++을 이용하여 4가지 스케줄링 알고리즘(First come first served, Shortest job first, Round robin, Priority)을 구현한 후
